@@ -1,0 +1,8 @@
+<servlet>
+      <servlet-name>logindemo</servlet-name>
+      <servlet-class>loginDemo.LoginServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+      <servlet-name>logindemo</servlet-name>
+      <url-pattern>/loginDemo</url-pattern>
+  </servlet-mapping>
